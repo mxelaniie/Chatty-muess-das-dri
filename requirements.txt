@@ -3,3 +3,4 @@ pillow
 google-genai
 python-dotenv
 streamlit
+openai
